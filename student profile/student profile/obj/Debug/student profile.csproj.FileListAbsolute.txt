@@ -10,3 +10,15 @@ c:\users\ramish ather dar\documents\visual studio 2013\Projects\student profile\
 c:\users\ramish ather dar\documents\visual studio 2013\Projects\student profile\student profile\obj\Debug\student profile.pdb
 c:\users\ramish ather dar\documents\visual studio 2013\Projects\student profile\student profile\obj\Debug\student_profile.deleteStudent.resources
 c:\users\ramish ather dar\documents\visual studio 2013\Projects\student profile\student profile\obj\Debug\student_profile.searchStudent.resources
+E:\github work\RamishDar_-01-131152-033_-VP\student profile\student profile\bin\Debug\student profile.exe.config
+E:\github work\RamishDar_-01-131152-033_-VP\student profile\student profile\obj\Debug\student profile.exe
+E:\github work\RamishDar_-01-131152-033_-VP\student profile\student profile\obj\Debug\student profile.pdb
+E:\github work\RamishDar_-01-131152-033_-VP\student profile\student profile\bin\Debug\student profile.exe
+E:\github work\RamishDar_-01-131152-033_-VP\student profile\student profile\bin\Debug\student profile.pdb
+E:\github work\RamishDar_-01-131152-033_-VP\student profile\student profile\obj\Debug\student profile.csprojResolveAssemblyReference.cache
+E:\github work\RamishDar_-01-131152-033_-VP\student profile\student profile\obj\Debug\student_profile.deleteStudent.resources
+E:\github work\RamishDar_-01-131152-033_-VP\student profile\student profile\obj\Debug\student_profile.Form1.resources
+E:\github work\RamishDar_-01-131152-033_-VP\student profile\student profile\obj\Debug\student_profile.newStudent.resources
+E:\github work\RamishDar_-01-131152-033_-VP\student profile\student profile\obj\Debug\student_profile.Properties.Resources.resources
+E:\github work\RamishDar_-01-131152-033_-VP\student profile\student profile\obj\Debug\student_profile.searchStudent.resources
+E:\github work\RamishDar_-01-131152-033_-VP\student profile\student profile\obj\Debug\student profile.csproj.GenerateResource.Cache

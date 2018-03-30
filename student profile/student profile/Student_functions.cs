@@ -79,6 +79,7 @@ namespace student_profile
                     break;
                 }
             }
+            st.Close();
             return student;
           
 
