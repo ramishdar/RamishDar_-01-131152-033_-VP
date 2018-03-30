@@ -1,0 +1,12 @@
+c:\users\ramish ather dar\documents\visual studio 2013\Projects\student profile\student profile\bin\Debug\student profile.exe.config
+c:\users\ramish ather dar\documents\visual studio 2013\Projects\student profile\student profile\bin\Debug\student profile.exe
+c:\users\ramish ather dar\documents\visual studio 2013\Projects\student profile\student profile\bin\Debug\student profile.pdb
+c:\users\ramish ather dar\documents\visual studio 2013\Projects\student profile\student profile\obj\Debug\student profile.csprojResolveAssemblyReference.cache
+c:\users\ramish ather dar\documents\visual studio 2013\Projects\student profile\student profile\obj\Debug\student_profile.Form1.resources
+c:\users\ramish ather dar\documents\visual studio 2013\Projects\student profile\student profile\obj\Debug\student_profile.newStudent.resources
+c:\users\ramish ather dar\documents\visual studio 2013\Projects\student profile\student profile\obj\Debug\student_profile.Properties.Resources.resources
+c:\users\ramish ather dar\documents\visual studio 2013\Projects\student profile\student profile\obj\Debug\student profile.csproj.GenerateResource.Cache
+c:\users\ramish ather dar\documents\visual studio 2013\Projects\student profile\student profile\obj\Debug\student profile.exe
+c:\users\ramish ather dar\documents\visual studio 2013\Projects\student profile\student profile\obj\Debug\student profile.pdb
+c:\users\ramish ather dar\documents\visual studio 2013\Projects\student profile\student profile\obj\Debug\student_profile.deleteStudent.resources
+c:\users\ramish ather dar\documents\visual studio 2013\Projects\student profile\student profile\obj\Debug\student_profile.searchStudent.resources
